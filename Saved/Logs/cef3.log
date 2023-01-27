@@ -13,3 +13,11 @@
 [0126/191614.517:WARNING:storage_block-inl.h(146)] Failed data load.
 [0126/191614.517:WARNING:storage_block-inl.h(146)] Failed data load.
 [0126/191614.517:WARNING:storage_block-inl.h(146)] Failed data load.
+[0127/114343.730:WARNING:backend_impl.cc(1592)] Messed up entry found.
+[0127/114343.730:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0127/114344.924:WARNING:storage_block-inl.h(146)] Failed data load.
+[0127/114344.925:WARNING:storage_block-inl.h(146)] Failed data load.
+[0127/114344.925:WARNING:storage_block-inl.h(146)] Failed data load.
+[0127/114344.927:WARNING:storage_block-inl.h(146)] Failed data load.
+[0127/114344.928:ERROR:entry_impl.cc(998)] Failed to save user data
+[0127/114344.928:ERROR:entry_impl.cc(998)] Failed to save user data
