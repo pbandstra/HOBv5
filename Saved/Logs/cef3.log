@@ -81,3 +81,4 @@
 [0207/195046.624:ERROR:cache_util.cc(139)] Unable to move cache folder C:/Users/Linds/OneDrive/Internship/HOB/HOBv5/Saved/webcache_4147\Cache to C:/Users/Linds/OneDrive/Internship/HOB/HOBv5/Saved/webcache_4147\old_Cache_000
 [0207/195046.624:ERROR:disk_cache.cc(184)] Unable to create cache
 [0207/195101.152:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0208/113540.557:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
