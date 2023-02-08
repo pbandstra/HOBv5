@@ -59,3 +59,25 @@
 [0201/111849.774:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 9
 [0201/111849.774:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 5
 [0201/111849.775:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 13
+[0207/194904.092:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0207/194904.093:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0207/195038.847:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0207/195038.847:ERROR:entry_impl.cc(1076)] No file for c103010e
+[0207/195038.848:WARNING:storage_block-inl.h(146)] Failed data load.
+[0207/195038.848:WARNING:storage_block-inl.h(146)] Failed data load.
+[0207/195038.848:WARNING:storage_block-inl.h(146)] Failed data load.
+[0207/195038.848:WARNING:storage_block-inl.h(146)] Failed data load.
+[0207/195038.848:ERROR:entry_impl.cc(1076)] No file for c1030108
+[0207/195038.848:WARNING:storage_block-inl.h(146)] Failed data load.
+[0207/195038.848:WARNING:storage_block-inl.h(146)] Failed data load.
+[0207/195038.848:WARNING:storage_block-inl.h(146)] Failed data load.
+[0207/195038.848:WARNING:storage_block-inl.h(146)] Failed data load.
+[0207/195038.848:ERROR:entry_impl.cc(1076)] No file for c103010a
+[0207/195038.849:WARNING:storage_block-inl.h(146)] Failed data load.
+[0207/195038.849:WARNING:storage_block-inl.h(146)] Failed data load.
+[0207/195038.853:WARNING:storage_block-inl.h(146)] Failed data load.
+[0207/195045.728:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0207/195046.624:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[0207/195046.624:ERROR:cache_util.cc(139)] Unable to move cache folder C:/Users/Linds/OneDrive/Internship/HOB/HOBv5/Saved/webcache_4147\Cache to C:/Users/Linds/OneDrive/Internship/HOB/HOBv5/Saved/webcache_4147\old_Cache_000
+[0207/195046.624:ERROR:disk_cache.cc(184)] Unable to create cache
+[0207/195101.152:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
