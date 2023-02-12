@@ -82,3 +82,12 @@
 [0207/195046.624:ERROR:disk_cache.cc(184)] Unable to create cache
 [0207/195101.152:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [0208/113540.557:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0212/120558.887:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0212/120559.511:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0212/120559.513:WARNING:storage_block-inl.h(146)] Failed data load.
+[0212/120559.513:WARNING:storage_block-inl.h(146)] Failed data load.
+[0212/120559.513:WARNING:storage_block-inl.h(146)] Failed data load.
+[0212/120559.513:WARNING:storage_block-inl.h(146)] Failed data load.
+[0212/120559.513:ERROR:entry_impl.cc(1076)] No file for c1030022
+[0212/120559.513:WARNING:storage_block-inl.h(146)] Failed data load.
+[0212/120602.132:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
