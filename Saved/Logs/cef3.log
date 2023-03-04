@@ -108,3 +108,18 @@
 [0221/121650.583:WARNING:storage_block-inl.h(146)] Failed data load.
 [0221/121650.583:WARNING:storage_block-inl.h(146)] Failed data load.
 [0221/121650.587:WARNING:storage_block-inl.h(146)] Failed data load.
+[0303/112444.804:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0303/112444.808:ERROR:entry_impl.cc(1076)] No file for c1030006
+[0303/112444.808:WARNING:storage_block-inl.h(146)] Failed data load.
+[0303/112444.808:WARNING:storage_block-inl.h(146)] Failed data load.
+[0303/112444.808:WARNING:storage_block-inl.h(146)] Failed data load.
+[0303/112444.808:WARNING:storage_block-inl.h(146)] Failed data load.
+[0303/112444.808:ERROR:entry_impl.cc(1076)] No file for c10300c4
+[0303/112444.808:WARNING:storage_block-inl.h(146)] Failed data load.
+[0303/112444.808:WARNING:storage_block-inl.h(146)] Failed data load.
+[0303/112444.808:WARNING:storage_block-inl.h(146)] Failed data load.
+[0303/112444.808:WARNING:storage_block-inl.h(146)] Failed data load.
+[0303/112444.808:ERROR:entry_impl.cc(1076)] No file for c10300c8
+[0303/112444.809:WARNING:storage_block-inl.h(146)] Failed data load.
+[0303/112444.809:WARNING:storage_block-inl.h(146)] Failed data load.
+[0303/112444.815:WARNING:storage_block-inl.h(146)] Failed data load.
