@@ -132,3 +132,7 @@
 [0309/102225.150:WARNING:storage_block-inl.h(146)] Failed data load.
 [0309/102225.150:ERROR:entry_impl.cc(998)] Failed to save user data
 [0309/102225.150:ERROR:entry_impl.cc(998)] Failed to save user data
+[0324/143412.529:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[0324/143412.552:ERROR:cache_util.cc(139)] Unable to move cache folder E:/HOBv5/Saved/webcache_4147\Cache to E:/HOBv5/Saved/webcache_4147\old_Cache_000
+[0324/143412.552:ERROR:disk_cache.cc(184)] Unable to create cache
+[0324/143434.219:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
