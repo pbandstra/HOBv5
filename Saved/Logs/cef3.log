@@ -136,3 +136,11 @@
 [0324/143412.552:ERROR:cache_util.cc(139)] Unable to move cache folder E:/HOBv5/Saved/webcache_4147\Cache to E:/HOBv5/Saved/webcache_4147\old_Cache_000
 [0324/143412.552:ERROR:disk_cache.cc(184)] Unable to create cache
 [0324/143434.219:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0418/183943.926:WARNING:backend_impl.cc(1813)] Destroying invalid entry.
+[0418/183944.011:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0418/183944.886:WARNING:storage_block-inl.h(146)] Failed data load.
+[0418/183944.904:WARNING:storage_block-inl.h(146)] Failed data load.
+[0418/183944.917:WARNING:storage_block-inl.h(146)] Failed data load.
+[0418/183944.922:WARNING:storage_block-inl.h(146)] Failed data load.
+[0418/183944.928:ERROR:entry_impl.cc(998)] Failed to save user data
+[0418/183944.929:ERROR:entry_impl.cc(998)] Failed to save user data
